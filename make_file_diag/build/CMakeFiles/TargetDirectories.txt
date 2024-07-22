@@ -1,0 +1,3 @@
+/home/yeshaohua/make_new_file/make_file_diag/build/CMakeFiles/txtreader.dir
+/home/yeshaohua/make_new_file/make_file_diag/build/CMakeFiles/edit_cache.dir
+/home/yeshaohua/make_new_file/make_file_diag/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/sbin/c++ CMakeFiles/txtreader.dir/txtread.cpp.o -o txtreader  -lboost_program_options
